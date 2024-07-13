@@ -19,8 +19,6 @@ We will build Micrograd with 100 lines of Python code, as well as build a librar
 - Common issues
 - A challenge at the end
 
-I hope this provides value for you!
-
 Andrej's code/github: 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNZHptdphzZ8BzlYdaRX2IylzONCo3sH?usp=sharing) Code Part 1 of Video
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rBHNN8qIrCGVIKMilnD-rFmKfMX_PRXa?usp=sharing) Code Part 2 of Video
