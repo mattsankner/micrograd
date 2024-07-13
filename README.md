@@ -1,5 +1,7 @@
 # **Building Micrograd**
 
+![]
+
 In this series of notebooks, I re-create Andrej Karpathy's lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner,
 separating concepts between notebooks. This way, you can access multiple versions of the code with different focuses in each notebook.
 
