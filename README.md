@@ -1,8 +1,6 @@
 # **Micrograd Autograd Engine**
 
-
-
-In this series of notebooks, I re-create Andrej Karpathy's lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner, complete with Andrei's and my own anecdotes. I separate concepts between notebooks so you can access multiple versions of the code throughout the lecture with different focuses in each notebook. This is a robust, and more step-by-step, readable version of how you might learn the concepts required to build Micrograd.
+In this series of notebooks, I build a bare-bones neural network (Multi-Layer Perceptron) with python. It is complete with forwrd pass, backpropogation, and stochastic gradient descent. I re-create Andrej Karpathy's YoutTube lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner, complete with Andrei's and my own anecdotes. I separate concepts between notebooks so you can access multiple versions of the code throughout the lecture with different focuses in each notebook. This is a robust, and more step-by-step, readable version of how you might learn the concepts required to build Micrograd.
 
 **No, none of this is written with GPT.**
 
