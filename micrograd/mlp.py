@@ -1,5 +1,5 @@
 import random
-from engine import Value
+from micrograd.engine import Value
 
 class Module:
     # Base class for all components (neurons, layers, MLP) to manage parameters and gradients
