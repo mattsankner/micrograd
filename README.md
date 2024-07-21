@@ -2,8 +2,6 @@
 
 In this series of notebooks, I build a bare-bones neural network (Multi-Layer Perceptron) with python. It is complete with forward pass, backpropogation, and stochastic gradient descent. To do this, I re-create Andrej Karpathy's YoutTube lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner, complete with Andrei's and my own anecdotes. I separate concepts between notebooks so you can access multiple versions of the code throughout the lecture with different focuses in each notebook. This is a robust, and more step-by-step, readable, and workbook like version of how you might learn the concepts required to build Micrograd.
 
-**No, none of this is written with GPT.**
-
 We will build Micrograd with 100 lines of Python code, as well as build a library on top of Micrograd for the neurons, layers, and MLP's!
 **Agenda, concepts, and important links are below.**
 
