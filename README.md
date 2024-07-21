@@ -46,9 +46,12 @@ We will build Micrograd with 100 lines of Python code, as well as build a librar
 ### Notebook 6: Gradient Descent
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattsankner/micrograd/blob/main/mg6_gradient_descent.ipynb)
 [![View in nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.jupyter.org/github/mattsankner/micrograd/blob/main/mg6_gradient_descent.ipynb)
+
 ### Notebook 7: Final
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattsankner/micrograd/blob/main/mg7_final.ipynb)
 [![View in nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.jupyter.org/github/mattsankner/micrograd/blob/main/mg7_final.ipynb)
+
+### Notebook 8: Binary Classifier Exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattsankner/micrograd/blob/main/mg8_binary_classifer.ipynb) [![View in nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.jupyter.org/github/mattsankner/micrograd/blob/main/mg8_binary_classifier.ipynb)
 
 ### Andrej's code/github: 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNZHptdphzZ8BzlYdaRX2IylzONCo3sH?usp=sharing) Code Part 1 of Video
