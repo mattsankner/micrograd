@@ -1,8 +1,6 @@
 # **Micrograd Autograd Engine**
 
-In this series of notebooks, I re-create Andrej Karpathy's lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner, complete with Andrei's and my own anecdotes. I separate concepts between notebooks so you can access multiple versions of the code throughout the lecture with different focuses in each notebook. This is a robust, and more step-by-step, readable version of how you might learn the concepts required to build Micrograd.
-
-In this series of notebooks, I build a bare-bones neural network (Multi-Layer Perceptron) with python. It is complete with forwrd pass, backpropogation, and stochastic gradient descent. I re-create Andrej Karpathy's YoutTube lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner, complete with Andrei's and my own anecdotes. I separate concepts between notebooks so you can access multiple versions of the code throughout the lecture with different focuses in each notebook. This is a robust, and more step-by-step, readable version of how you might learn the concepts required to build Micrograd.
+In this series of notebooks, I build a bare-bones neural network (Multi-Layer Perceptron) with python. It is complete with forward pass, backpropogation, and stochastic gradient descent. To do this, I re-create Andrej Karpathy's YoutTube lecture, **"The Spelled-out Intro to Neural Networks and Backpropagation: Building Micrograd."** in a more byte-sized manner, complete with Andrei's and my own anecdotes. I separate concepts between notebooks so you can access multiple versions of the code throughout the lecture with different focuses in each notebook. This is a robust, and more step-by-step, readable, and workbook like version of how you might learn the concepts required to build Micrograd.
 
 **No, none of this is written with GPT.**
 
@@ -19,9 +17,9 @@ We will build Micrograd with 100 lines of Python code, as well as build a librar
 - Elements of a neural network from neuron to multi-layer perceptron
 - The flow of training a neural network -> forward pass, backward pass, gradient descent, optimization
 - Common issues
-- A challenge at the end
+- Build a binary classifier that uses micrograd at the end
 
-## Notebooks
+## Notebooks (Meant to be completed in order)
 
 ### Notebook 1: Derivatives
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattsankner/micrograd/blob/main/mg1_derivatives.ipynb)
@@ -55,7 +53,7 @@ We will build Micrograd with 100 lines of Python code, as well as build a librar
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattsankner/micrograd/blob/main/mg8_binary_classifer.ipynb)
 [![View in nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.jupyter.org/github/mattsankner/micrograd/blob/main/mg8_binary_classifier.ipynb)
 
-### Andrej's code/github: 
+## Andrej's code/github: 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNZHptdphzZ8BzlYdaRX2IylzONCo3sH?usp=sharing) Code Part 1 of Video
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rBHNN8qIrCGVIKMilnD-rFmKfMX_PRXa?usp=sharing) Code Part 2 of Video
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cLkwbDNcNGoZGDc_7Fepbt3BplCXT21w?usp=sharing) Solutions
